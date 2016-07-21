@@ -12,8 +12,15 @@
     <artifactId>zookeeper</artifactId>
 
 
+    <dependencies>
 
+        <dependency>
+            <groupId>org.apache.hadoop</groupId>
+            <artifactId>zookeeper</artifactId>
+            <version>3.3.1</version>
+        </dependency>
 
+    </dependencies>
 
 
 </project>
