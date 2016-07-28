@@ -17,6 +17,8 @@
         <module>hadoop</module>
         <module>rabbitmq</module>
         <module>elasticsearch</module>
+        <module>dubbo</module>
+        <module>redis</module>
     </modules>
 
 
